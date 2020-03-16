@@ -1,19 +1,17 @@
 body {
-  background: powderblue;
+  background: #eaf6f6;
 }
 h1,
 h3 {
   color: #66bfbf;
 }
-hr {
-  border-color: gray;
-  border-style: none;
-  border-top-style: dotted;
-  width: 5%;
-  border-width: 5px;
-}
-
 img {
   border-radius: 50%;
   width: 200px;
+}
+hr {
+  border: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
 }
